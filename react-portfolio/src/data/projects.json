@@ -1,0 +1,18 @@
+[
+    {
+      "title": "CoredLib (Internship)",
+      "imageSrc": "projects/CoredLib1.jpg",
+      "description": "This is a project made to revamp previous web design into a more modern and responsive design.",
+      "skills": ["HTML", "JavaScript", "CSS", "Bootstrap", "JQuery"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Progressive Web App (Internship)",
+      "imageSrc": "projects/PWA.jpg",
+      "description": "This is a project made to create a progressive web app.",
+      "skills": ["HTML", "JavaScript", "CSS", "Bootstrap", "JQuery"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
