@@ -1,0 +1,3 @@
+[submodule "react-portfolio/assets"]
+    path = react-portfolio/assets
+    url = https://github.com/starspen/portfolio_git.git
