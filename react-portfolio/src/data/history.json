@@ -1,10 +1,54 @@
 [
-    {
-      "role": "Front End Developer",
-      "organisation": "Sinarmas Land Corporate IT",
-      "startDate": "July, 2023",
-      "endDate": "Dec, 2023",
-      "experiences": ["Revamped ERP Website UI/UX", "Developed PWA"],
-      "imageSrc": "history/sinarmas.png"
-    }
-  ]
+  {
+    "role": "Front End Developer",
+    "organisation": "IFCA Software",
+    "startDate": "October, 2024",
+    "endDate": "Present",
+    "header": "Siteplan",
+    "experiences": [
+      "Developed an interactive warehouse siteplan web application to simplify lot management and visualization.",
+      "Implemented a dynamic siteplan using React Konva, enabling clickable lot areas with color-state indicators based on availability status.",
+      "Built the frontend using Next.js with optimized component structure and responsive layout.",
+      "Integrated REST API for data fetching, creation, update, and deletion operations.",
+      "Utilized TanStack Query for efficient server-state management, caching, and real-time UI updates.",
+      "Improved operational efficiency by providing visual lot monitoring and reducing manual tracking processes."
+    ],
+    "imageSrc": "history/IFCA-logo.png"
+  },
+  {
+    "role": "Front End Developer",
+    "organisation": "IFCA Software",
+    "startDate": "October, 2024",
+    "endDate": "Present",
+    "header": "GIS Project",
+    "experiences": [
+      "Developed a GIS system integrated with Google Maps API, capable of reading KML files to render interactive, colorful shapes representing client-owned buildings and roads.",
+      "Implemented full interactivity, including clickable shapes and color-state indicators.",
+      "Optimized frontend layout and components using React and Next.js."
+    ],
+    "imageSrc": "history/IFCA-logo.png"
+  },
+  {
+    "role": "Front End Developer",
+    "organisation": "IFCA Software",
+    "startDate": "October, 2024",
+    "endDate": "Present",
+    "header": "ESign Project",
+    "experiences": [
+      "Built an interactive e-signature system using React Konva where signature and emeterai positions can be setup dynamically.",
+      "Allowed users to click on specific signer areas to view their digital signature.",
+      "Implemented export functionality to PDF with all signatures properly embedded.",
+      "Ensured responsive and user-friendly design for signing workflow."
+    ],
+    "imageSrc": "history/IFCA-logo.png"
+  },
+
+  {
+    "role": "Front End Developer",
+    "organisation": "Sinarmas Land Corporate IT",
+    "startDate": "July, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": ["Revamped ERP Website UI/UX", "Developed PWA"],
+    "imageSrc": "history/sinarmas.png"
+  }
+]

@@ -1,18 +1,34 @@
 [
-    {
-      "title": "CoredLib (Internship)",
-      "imageSrc": "projects/CoredLib1.jpg",
-      "description": "This is a project made to revamp previous web design into a more modern and responsive design.",
-      "skills": ["HTML", "JavaScript", "CSS", "Bootstrap", "JQuery"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Progressive Web App (Internship)",
-      "imageSrc": "projects/PWA.jpg",
-      "description": "This is a project made to create a progressive web app.",
-      "skills": ["HTML", "JavaScript", "CSS", "Bootstrap", "JQuery"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    }
-  ]
+  {
+    "title": "Geographical Information System (IFCA Software)",
+    "imageSrc": "projects/dashboard pakuwon.png",
+    "description": "Developed a GIS system integrated with Google Maps API, capable of reading KML files to render interactive, colorful shapes representing client-owned buildings and roads. Implemented full interactivity, including clickable shapes and color-state indicators. Optimized frontend layout and components using React and Next.js.",
+    "skills": ["NEXT JS", "TypeScript", "Tailwind", "ShadCN", "REST API"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Siteplan (IFCA Software)",
+    "imageSrc": "projects/siteplan.jpg",
+    "description": "Developed an interactive warehouse siteplan web application to simplify lot management and visualization. Implemented a dynamic siteplan using React Konva, enabling clickable lot areas with color-state indicators based on availability status. Built the frontend using Next.js with optimized component structure and responsive layout. Integrated REST API for data fetching, creation, update, and deletion operations. Utilized TanStack Query for efficient server-state management, caching, and real-time UI updates. Improved operational efficiency by providing visual lot monitoring and reducing manual tracking processes.",
+    "skills": ["NEXT JS", "TypeScript", "Tailwind", "ShadCN", "REST API", "React-Konva"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "CoredLib (Internship)",
+    "imageSrc": "projects/CoredLib1.jpg",
+    "description": "This is a project made to revamp previous web design into a more modern and responsive design.",
+    "skills": ["HTML", "JavaScript", "CSS", "Bootstrap", "JQuery"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Progressive Web App (Internship)",
+    "imageSrc": "projects/PWA.jpg",
+    "description": "This is a project made to create a progressive web app.",
+    "skills": ["HTML", "JavaScript", "CSS", "Bootstrap", "JQuery"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

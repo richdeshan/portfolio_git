@@ -1,4 +1,8 @@
 [
+  {
+      "title": "NextJS",
+      "imageSrc": "skills/Nextjs-logo.svg.png"
+    },
     {
       "title": "HTML",
       "imageSrc": "skills/html.png"
@@ -16,7 +20,24 @@
       "imageSrc": "skills/js.png"
     },
     {
+      "title": "TypeScript",
+      "imageSrc": "skills/Typescript_logo_2020.svg.png"
+    },
+    {
+      "title": "REST API",
+      "imageSrc": "skills/restapi-logo.png"
+    },
+    {
+      "title": "TanStack",
+      "imageSrc": "skills/tanstack-logo.png"
+    },
+    {
+      "title": "Tailwind",
+      "imageSrc": "skills/tailwind.png"
+    },
+    {
       "title": "Bootstrap",
       "imageSrc": "skills/bootstrap.png"
     }
+    
   ]
